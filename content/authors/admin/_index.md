@@ -49,8 +49,11 @@ profiles:
 
 interests:
   - Large Language Models
-  - Computer Vision
+  - Small Language Models
+  - Information Retrieval
   - Reinforcement Learning
+  - AI Agents
+  - Arabic NLP
   - AI Ethics
 
 education:
@@ -140,10 +143,10 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
