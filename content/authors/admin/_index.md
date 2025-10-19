@@ -23,29 +23,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: AI Engineer
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+# # Organizations/Affiliations to display in Biography blox
+# organizations:
+#   - name: Meta AI
+#     url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:omarkhaledcvexpert@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/therealokai
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/OmarKhaled0K
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/dsomarkhaled/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
@@ -54,49 +54,56 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+  # - area: Bachelor of Computer Engineering
+  #   institution: Benha University
+  #   date_start: 2019-09-01
+  #   date_end: 2024-06-30
+  #   summary: |
+  #     Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com/thesis.pdf'
+  # - area: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   date_start: 2013-09-01
+  #   date_end: 2015-05-31
+  #   summary: |
+  #     GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  #     Specialized in machine learning and robotics.
+  - area: Bachelor of Computer Engineering
+    institution: Benha Univeristy
+    date_start: 2019-09-01
+    date_end: 2024-06-30
     summary: |
-      GPA: 3.9/4.0
+      Final grade: 82.29% (Very Good with Honours)
 
-      Minored in Mathematics. President of AI Club.
+      Graduation project: Video Summarization Framework — SUM-GAN-AED; Grade: A+
+
+      Relevant coursework: Artificial Intelligence, Neural Networks, Computer Vision, Image processing, Data Structures
+
+
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Artificial Intelligence Engineer
+    company_name: AICOM
+    # company_url: 'https://ai.meta.com/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2024-10-09
+    date_end: 2025-09-01
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Engineered an enterprise RAG system using OpenAI, Qdrant, and FastAPI, reducing response times from 30s to <3s for 100+ concurrent users.
+      Architected a document processing pipeline for PDF/CSV/Excel, improving Arabic document QA accuracy by 50% via SQL extraction and query optimization.
+      Implemented caching and similarity search optimizations, achieving <250ms
+  - position: Machine Learning Engineer
+    company_name: Epsilon AI
+    # company_url: 'https://openai.com/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-06-01
+    date_end: 2024-10-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Trained 100+ students in AI/ML technologies including Python, Machine Learning, and Deep Learning, achieving 95% satisfaction.
+      Authored hands-on curriculum and labs for for Machine Learning and Deep Learning, directly contributing to student project success.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -166,4 +173,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Omar Khaled is an Artificial Intelligence Engineer with 3+ years of experience at the intersection of research and development. Skilled in LLM fine-tuning, reinforcement learning, RAG systems, voice AI agents, and AI automation. Hands-on contributions include improving reasoning accuracy, optimizing efficiency, and deploying enterprise-ready solutions such as real-time conversational agents, automation platforms, and scalable retrieval systems. Passionate about roles that combine research exploration with practical engineering to advance impactful AI innovations.
